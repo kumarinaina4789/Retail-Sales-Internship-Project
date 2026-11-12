@@ -1,0 +1,254 @@
+Transaction_ID,Customer_ID,Customer_Name,Gender,Age,Product_ID,Product_Name,Category,Quantity,Price_Per_Unit,Total_Amount,Purchase_Date
+T0001,C052,Arjun Roy,Female,28,P108,Cotton T-Shirt,Fashion,2,699,1398,29-03-2025 00:00
+T0002,C024,Ananya Mishra,Male,55,P103,Notebook Pack,Stationery,1,149,149,11-07-2025 00:00
+T0003,C060,Kavya Jha,Female,59,P105,Water Bottle,Home & Kitchen,2,399,798,07-07-2025 00:00
+T0004,C015,Sana Jha,Female,68,P103,Notebook Pack,Stationery,1,149,149,15-05-2025 00:00
+T0005,C021,Priya Jha,Other,67,P109,Bluetooth Speaker,Electronics,1,1799,1799,22-09-2025 00:00
+T0006,C053,Dev Sinha,Female,25,P102,USB-C Cable,Electronics,2,299,598,04-02-2025 00:00
+T0007,C036,Ananya Das,Female,21,P102,USB-C Cable,Electronics,2,299,598,06-11-2025 00:00
+T0008,C063,Ananya Roy,Male,31,P102,USB-C Cable,Electronics,3,299,897,17-12-2025 00:00
+T0009,C048,Isha Gupta,Female,35,P108,Cotton T-Shirt,Fashion,2,699,1398,22-02-2025 00:00
+T0010,C024,Rahul Jha,Female,62,P110,Backpack,Fashion,4,1199,4796,06-03-2025 00:00
+T0011,C071,Kavya Mishra,Female,250,P109,Bluetooth Speaker,Electronics,3,1799,5397,22-03-2025 00:00
+T0012,C008,Kabir Roy,Female,58,P103,Notebook Pack,Stationery,3,149,447,28-01-2025 00:00
+T0013,C007,Ananya Sharma,Female,40,P109,Bluetooth Speaker,Electronics,2,1799,3598,03-03-2025 00:00
+T0014,C037,Rohan Sharma,Female,64,P103,Notebook Pack,Stationery,2,149,298,
+T0015,C001,Neha Yadav,Female,32,P105,Water Bottle,Home & Kitchen,2,399,798,15-01-2025 00:00
+T0016,C042,Arjun Sharma,Female,49,P103,Notebook Pack,Stationery,1,149,149,
+T0017,C023,Aditya Verma,Male,24,P107,Running Shoes,Fashion,1,2499,2499,06-07-2025 00:00
+T0018,C028,Sneha Sinha,Male,61,P102,USB-C Cable,Electronics,2,299,598,06-12-2025 00:00
+T0019,C030,Arjun Sharma,Female,44,P110,Backpack,Fashion,1,1199,1199,01-05-2025 00:00
+T0020,C003,Vivaan Gupta,Male,59,P107,Running Shoes,Fashion,1,2499,2499,21-06-2025 00:00
+T0021,C024,Vivaan Verma,Female,66,P106,Desk Lamp,Home & Kitchen,1,1299,1299,21-02-2025 00:00
+T0022,C012,Aman Gupta,Female,34,P107,Running Shoes,Fashion,2,2499,4998,06-07-2025 00:00
+T0023,C002,Kabir Sharma,Male,19,P102,USB-C Cable,Electronics,-2,299,299,22-02-2025 00:00
+T0024,C044,Priya Yadav,Male,34,P110,Backpack,Fashion,5,1199,5995,12-09-2025 00:00
+T0025,C038,Ananya Das,Female,65,P108,Cotton T-Shirt,Fashion,1,699,699,24-05-2025 00:00
+T0026,C073,Rohan Verma,Female,53,P106,Desk Lamp,Home & Kitchen,2,1299,2598,12-12-2025 00:00
+T0027,C067,Arjun Verma,Male,57,P103,Notebook Pack,Stationery,1,149,149,08-05-2025 00:00
+T0028,C039,Aditya Sinha,Male,67,P102,USB-C Cable,Electronics,3,299,897,31-05-2025 00:00
+T0029,C031,Pooja Roy,Other,69,P110,Backpack,Fashion,,1199,1199,01-03-2025 00:00
+T0030,C002,Kavya Gupta,Male,26,P101,Wireless Mouse,Electronics,1,799,799,21-08-2025 00:00
+T0031,C019,Aarav Mishra,Male,66,P103,Notebook Pack,Stationery,3,149,447,14-04-2025 00:00
+T0032,C025,Diya Kumar,Male,33,P102,USB-C Cable,Electronics,1,299,299,18-06-2025 00:00
+T0033,C033,Pooja Verma,Female,25,P104,Ballpoint Pens,Stationery,1,99,99,15-05-2025 00:00
+T0034,C067,Pooja Sinha,Male,39,P101,Wireless Mouse,Electronics,1,799,799,22-01-2025 00:00
+T0035,C030,Kunal Das,Male,44,P106,Desk Lamp,Home & Kitchen,5,1299,6495,14-08-2025 00:00
+T0036,C021,Aarav Gupta,Female,65,P101,Wireless Mouse,Electronics,2,100000,1598,27-05-2025 00:00
+T0037,C004,Aman Sinha,Male,46,P103,Notebook Pack,Stationery,3,149,447,15-02-2025 00:00
+T0038,C006,Kabir Mishra,Female,63,P103,Notebook Pack,Stationery,2,149,298,30-06-2025 00:00
+T0039,C060,Aarav Singh,Female,42,P101,Wireless Mouse,Electronics,1,799,799,11-08-2025 00:00
+T0040,C054,Neha Mishra,Female,64,P110,Backpack,Fashion,4,1199,4796,08-12-2025 00:00
+T0041,C023,Meera Kumar,Female,57,P102,USB-C Cable,Electronics,1,299,299,26-10-2025 00:00
+T0042,C048,Rohan Kumar,,30,P107,Running Shoes,Fashion,1,2499,2499,12-11-2025 00:00
+T0043,C007,Sana Sharma,Female,63,P109,Bluetooth Speaker,Electronics,2,1799,3598,22-05-2025 00:00
+T0044,C015,Kunal Jha,Female,39,P102,USB-C Cable,Electronics,1,299,299,10-11-2025 00:00
+T0045,C058,Meera Das,Female,60,P106,Desk Lamp,Home & Kitchen,1,1299,1299,11-04-2025 00:00
+T0046,C008,Kavya Gupta,Female,23,P105,Water Bottle,Home & Kitchen,1,399,399,31-12-2025 00:00
+T0047,C047,Sana Kumar,Male,47,P103,Notebook Pack,Stationery,2,149,298,27-05-2025 00:00
+T0048,C017,Kabir Roy,Other,40,P108,Cotton T-Shirt,Fashion,1,699,699,07-05-2025 00:00
+T0049,C009,Aarav Kumar,female,65,P105,Water Bottle,Home & Kitchen,1,399,399,30-03-2025 00:00
+T0050,C001,Kabir Das,Male,20,P107,Running Shoes,Fashion,2,2499,4998,17-03-2025 00:00
+T0051,C026,Neha Sinha,Female,66,P103,Notebook Pack,Stationery,3,149,447,04-04-2025 00:00
+T0052,C062,Pooja Roy,Male,38,P104,Ballpoint Pens,Stationery,1,99,99,08-02-2025 00:00
+T0053,C033,Meera Das,Male,51,P105,Water Bottle,Home & Kitchen,1,399,399,29-06-2025 00:00
+T0054,C010,Aarav Mishra,Male,21,P110,Backpack,Fashion,4,1199,4796,16-01-2025 00:00
+T0055,C024,Sana Mishra,Male,52,P107,Running Shoes,Fashion,4,2499,9996,02-02-2025 00:00
+T0056,C033,Kavya Singh,Male,57,P103,Notebook Pack,Stationery,3,149,447,26-11-2025 00:00
+T0057,C043,Diya Singh,Female,43,P102,USB-C Cable,Electronics,1,299,299,21-09-2025 00:00
+T0058,C026,Ananya Singh,Female,21,P110,Backpack,Fashion,1,1199,1199,10-11-2025 00:00
+T0059,C075,Priya Roy,Female,41,P108,Cotton T-Shirt,Fashion,2,699,1398,11-07-2025 00:00
+T0060,C049,Diya Sharma,Male,41,P103,Notebook Pack,Stationery,1,149,149,31-05-2025 00:00
+T0061,,Rahul Yadav,Male,58,P105,Water Bottle,Home & Kitchen,1,399,399,13-10-2025 00:00
+T0062,C017,Pooja Jha,Female,36,P101,Wireless Mouse,Electronics,2,799,1598,26-06-2025 00:00
+T0063,C012,Vivaan Yadav,Male,48,P109,Bluetooth Speaker,Electronics,3,1799,5397,21-02-2025 00:00
+T0064,C016,Kavya Jha,Male,38,P105,Water Bottle,Home & Kitchen,1,399,399,22-02-2025 00:00
+T0065,C023,Meera Roy,Female,48,P109,Bluetooth Speaker,Electronics,1,1799,1799,02-05-2025 00:00
+T0066,C005,Aditya Patel,F,29,P103,Notebook Pack,Stationery,3,149,447,09-01-2025 00:00
+T0067,C074,Sneha Yadav,Female,57,P110,Backpack,Fashion,2,1199,2398,19-06-2025 00:00
+T0068,C009,Ananya Gupta,Male,55,P102,USB-C Cable,Electronics,3,299,897,05-12-2025 00:00
+T0069,C008,Aman Yadav,Other,,P101,Wireless Mouse,Electronics,3,799,2397,19-10-2025 00:00
+T0070,C070,Arjun Patel,Female,36,P103,Notebook Pack,Stationery,3,149,447,08-02-2025 00:00
+T0071,C067,Sana Sinha,Male,58,P102,USB-C Cable,Electronics,1,299,299,01-01-2025 00:00
+T0072,C003,Aman Jha,Male,55,P109,Bluetooth Speaker,Electronics,1,1799,1799,27-04-2025 00:00
+T0073,C006,Rahul Gupta,Female,38,P110,Backpack,Fashion,1,1199,1199,22-07-2025 00:00
+T0074,C036,Diya Jha,Female,32,P103,Notebook Pack,Stationery,2,149,298,01-01-2025 00:00
+T0075,C054,Aditya Sinha,Male,33,P106,Desk Lamp,Home & Kitchen,1,1299,1299,24-12-2025 00:00
+T0076,C024,Priya Roy,Female,67,P105,Water Bottle,Home & Kitchen,1,399,399,not-a-date
+T0077,C041,Aman Jha,Female,37,P104,Ballpoint Pens,Stationery,5,99,495,08-08-2025 00:00
+T0078,C029,Diya Singh,Male,64,P103,Notebook Pack,Stationery,3,149,447,10-01-2025 00:00
+T0079,C056,Kabir Yadav,Female,18,P102,USB-C Cable,Electronics,2,299,598,26-05-2025 00:00
+T0080,C049,Aman Sharma,Female,52,P105,Water Bottle,Home & Kitchen,2,399,798,07-11-2025 00:00
+T0081,C006,Kabir Das,Male,40,P101,Wireless Mouse,Electronics,2,799,1598,22-02-2025 00:00
+T0082,C037,Aman Gupta,Female,63,P110,Backpack,Fashion,3,1199,3597,01-01-2025 00:00
+T0083,C051,Aman Mishra,Male,45,P104,Ballpoint Pens,Stationery,1,99,99,05-04-2025 00:00
+T0084,C072,Ananya Das,Male,67,P107,Running Shoes,Fashion,2,2499,4998,25-09-2025 00:00
+T0085,C065,Aman Yadav,Male,38,P106,Desk Lamp,Home & Kitchen,4,1299,5196,07-03-2025 00:00
+T0086,C075,Ananya Das,Male,35,P103,Notebook Pack,Stationery,4,149,596,13-10-2025 00:00
+T0087,C051,Sneha Sharma,Male,47,P102,USB-C Cable,Electronics,1,299,299,04-09-2025 00:00
+T0088,C051,Priya Roy,Male,27,P101,Wireless Mouse,Electronics,4,799,3196,30-09-2025 00:00
+T0089,C069,Ananya Patel,Male,28,P102,USB-C Cable,Electronics,2,299,598,21-04-2025 00:00
+T0090,C023,Aditya Das,Male,21,P107,Running Shoes,Fashion,2,2499,4998,26-12-2025 00:00
+T0091,C004,Rohan Patel,Male,67,P108,Cotton T-Shirt,Fashion,1,699,699,02-03-2025 00:00
+T0092,C051,Diya Sinha,Female,39,P103,Notebook Pack,Stationery,3,149,447,22-11-2025 00:00
+T0093,C001,Neha Kumar,Female,43,P105,Water Bottle,Home & Kitchen,1,399,399,28-10-2025 00:00
+T0094,C027,Dev Jha,Male,47,P109,Bluetooth Speaker,Electronics,1,1799,1799,17-04-2025 00:00
+T0095,C063,Aarav Mishra,Male,69,P101,Wireless Mouse,Electronics,1,,799,26-07-2025 00:00
+T0096,C047,Neha Mishra,Male,43,P108,Cotton T-Shirt,Fashion,2,699,1398,14-01-2025 00:00
+T0097,C059,Rohan Yadav,Male,64,P108,Cotton T-Shirt,Fashion,1,699,699,01-10-2025 00:00
+T0098,C038,Kabir Sinha,Female,34,P103,Notebook Pack,Stationery,1,149,149,19-08-2025 00:00
+T0099,C044,Sana Jha,Male,20,P109,Bluetooth Speaker,Electronics,3,1799,5397,21-08-2025 00:00
+T0100,C018,Ananya Mishra,Male,61,P104,Ballpoint Pens,Stationery,2,99,198,24-03-2025 00:00
+T0101,C042,Sana Roy,Male,62,P109,Bluetooth Speaker,Electronics,,1799,1799,17-08-2025 00:00
+T0102,C033,Sneha Das,Female,21,P105,Water Bottle,Home & Kitchen,1,399,399,16-12-2025 00:00
+T0103,C075,Rohan Singh,Female,54,P108,Cotton T-Shirt,Fashion,3,699,2097,05-02-2025 00:00
+T0104,C024,Aditya Verma,Female,66,P106,Desk Lamp,Home & Kitchen,1,1299,1299,04-04-2025 00:00
+T0105,C051,Aditya Mishra,Female,62,P109,Bluetooth Speaker,Electronics,2,1799,3598,27-10-2025 00:00
+T0106,C005,Priya Singh,Female,37,P106,Desk Lamp,Home & Kitchen,4,1299,5196,23-04-2025 00:00
+T0107,C012,Sneha Gupta,Male,53,P101,Wireless Mouse,Electronics,2,799,1598,29-11-2025 00:00
+T0108,C003,Meera Gupta,Female,61,P101,Wireless Mouse,Electronics,1,799,799,13-01-2025 00:00
+T0109,C040,Kabir Jha,Male,28,P102,USB-C Cable,Electronics,1,299,299,07-02-2025 00:00
+T0110,C035,Kavya Kumar,Female,28,P101,Wireless Mouse,Electronics,3,799,2397,17-05-2025 00:00
+T0111,C034,Isha Das,Female,46,P103,Notebook Pack,Stationery,1,149,149,24-11-2025 00:00
+T0112,C011,Rohan Gupta,Female,36,P109,Bluetooth Speaker,Electronics,3,1799,5397,19-03-2025 00:00
+T0113,C026,Meera Jha,Male,25,P104,Ballpoint Pens,Stationery,1,99,99,22-10-2025 00:00
+T0114,C014,Aarav Yadav,Female,50,P103,Notebook Pack,Stationery,2,149,298,02-06-2025 00:00
+T0115,C017,Ananya Gupta,Male,68,P101,Wireless Mouse,Electronics,1,799,799,08-02-2025 00:00
+T0116,,Arjun Singh,Female,69,P106,Desk Lamp,Home & Kitchen,4,1299,5196,15-01-2025 00:00
+T0117,C029,Arjun Patel,Male,55,P101,Wireless Mouse,Electronics,2,799,1598,07-04-2025 00:00
+T0118,C027,Priya Das,Male,22,P107,Running Shoes,Fashion,1,2499,2499,03-05-2025 00:00
+T0119,C074,Rahul Verma,Female,69,P101,Wireless Mouse,Electronics,1,799,799,03-07-2025 00:00
+T0120,C015,Dev Verma,Male,19,P108,Cotton T-Shirt,Fashion,1,699,699,05-04-2025 00:00
+T0121,C036,Kabir Verma,Female,27,P104,Ballpoint Pens,Stationery,2,99,198,26-12-2025 00:00
+T0122,C038,Dev Roy,Male,29,P106,Desk Lamp,Home & Kitchen,1,1299,1299,06-08-2025 00:00
+T0123,C013,Aarav Mishra,Male,29,P108,Cotton T-Shirt,Fashion,,699,1398,22-12-2025 00:00
+T0124,C068,Isha Roy,Male,48,P105,Water Bottle,Home & Kitchen,4,399,1596,20-02-2025 00:00
+T0125,C029,Aditya Yadav,Female,54,P108,Cotton T-Shirt,Fashion,3,699,2097,12-12-2025 00:00
+T0126,C036,Aarav Das,Male,57,P106,Desk Lamp,Home & Kitchen,3,1299,3897,29-05-2025 00:00
+T0127,C047,Meera Verma,Male,43,P109,Bluetooth Speaker,Electronics,2,1799,3598,18-10-2025 00:00
+T0128,C063,Aditya Das,Female,35,P104,Ballpoint Pens,Stationery,2,99,198,13-12-2025 00:00
+T0129,C017,Arjun Verma,Female,41,P103,Notebook Pack,Stationery,1,149,149,10-06-2025 00:00
+T0130,C049,Diya Gupta,Male,,P106,Desk Lamp,Home & Kitchen,1,1299,1299,25-03-2025 00:00
+T0131,C049,Isha Sharma,Female,49,P104,Ballpoint Pens,Stationery,1,99,99,21-05-2025 00:00
+T0132,C051,Aman Mishra,,18,P108,Cotton T-Shirt,Fashion,3,699,2097,19-03-2025 00:00
+T0133,C047,Aman Kumar,Male,68,P102,USB-C Cable,Electronics,2,299,598,15-11-2025 00:00
+T0134,C004,Arjun Singh,Female,27,P101,Wireless Mouse,Electronics,1,799,799,11-06-2025 00:00
+T0135,C055,Isha Sharma,Male,20,P102,USB-C Cable,Electronics,3,299,897,12-09-2025 00:00
+T0136,C072,Kabir Singh,Male,45,P106,Desk Lamp,Home & Kitchen,1,1299,1299,21-09-2025 00:00
+T0137,C034,Neha Mishra,Male,33,P103,Notebook Pack,Stationery,1,149,149,14-06-2025 00:00
+T0138,C054,Pooja Kumar,Female,24,P105,Water Bottle,Home & Kitchen,1,399,399,10-06-2025 00:00
+T0139,C023,Kunal Verma,Male,35,P105,Water Bottle,Home & Kitchen,1,399,399,02-01-2025 00:00
+T0140,C001,Meera Kumar,Female,29,P105,Water Bottle,Home & Kitchen,1,399,399,20-01-2025 00:00
+T0141,C005,Vivaan Kumar,Male,52,P105,Water Bottle,Home & Kitchen,1,399,399,08-12-2025 00:00
+T0142,C024,Neha Yadav,Male,34,P101,Wireless Mouse,Electronics,3,799,2397,25-04-2025 00:00
+T0143,C014,Rahul Jha,Female,39,P109,Bluetooth Speaker,Electronics,2,1799,3598,23-08-2025 00:00
+T0144,C004,Rahul Kumar,Female,28,P110,Backpack,Fashion,2,1199,2398,22-11-2025 00:00
+T0145,C018,Vivaan Das,Female,54,P105,Water Bottle,Home & Kitchen,3,399,1197,02-06-2025 00:00
+T0146,C027,Isha Kumar,Male,70,P109,Bluetooth Speaker,Electronics,1,1799,1799,22-06-2025 00:00
+T0147,C017,Neha Kumar,Female,60,P110,Backpack,Fashion,1,1199,1199,12-07-2025 00:00
+T0148,C051,Aditya Mishra,Female,,P105,Water Bottle,Home & Kitchen,2,399,798,23-04-2025 00:00
+T0149,C059,Ananya Yadav,Male,39,P107,Running Shoes,Fashion,2,2499,4998,10-03-2025 00:00
+T0150,C056,Dev Verma,Female,69,P101,Wireless Mouse,Electronics,1,799,799,03-12-2025 00:00
+T0151,C062,Ananya Gupta,Female,57,P102,USB-C Cable,Electronics,2,299,598,17-01-2025 00:00
+T0152,C001,Isha Roy,Female,52,P109,Bluetooth Speaker,Electronics,2,1799,3598,11-05-2025 00:00
+T0153,C044,Ananya Sinha,Female,61,P103,Notebook Pack,Stationery,1,149,149,01-11-2025 00:00
+T0154,C061,Aman Sinha,Male,41,P101,Wireless Mouse,Electronics,4,799,3196,05-12-2025 00:00
+T0155,C008,Kabir Das,Male,25,P105,Water Bottle,Home & Kitchen,3,399,1197,25-01-2025 00:00
+T0156,C012,Dev Roy,Male,34,P110,Backpack,Fashion,1,1199,1199,09-10-2025 00:00
+T0157,C007,Kunal Mishra,Other,40,P105,Water Bottle,Home & Kitchen,2,399,798,23-03-2025 00:00
+T0158,C039,Meera Yadav,Female,48,P103,Notebook Pack,Stationery,1,149,149,01-06-2025 00:00
+T0159,C060,Aditya Mishra,Female,40,P102,USB-C Cable,Electronics,3,299,897,30-12-2025 00:00
+T0160,C039,Rahul Kumar,Male,62,P108,Cotton T-Shirt,Fashion,2,699,1398,18-04-2025 00:00
+T0161,C066,Ananya Patel,Male,30,P107,Running Shoes,Fashion,1,2499,2499,01-10-2025 00:00
+T0162,C032,Neha Verma,Female,66,P103,Notebook Pack,Stationery,1,149,149,14-11-2025 00:00
+T0163,C057,Meera Jha,Female,37,P108,Cotton T-Shirt,Fashion,1,699,699,06-03-2025 00:00
+T0164,C049,Diya Verma,Male,54,P103,Notebook Pack,Stationery,1,149,149,02-06-2025 00:00
+T0165,C048,Dev Jha,Female,41,P101,Wireless Mouse,Electronics,4,799,3196,20-05-2025 00:00
+T0166,C059,Kabir Patel,Male,56,P110,Backpack,Fashion,3,1199,3597,15-11-2025 00:00
+T0167,C046,Rahul Kumar,Female,69,P108,Cotton T-Shirt,Fashion,1,699,699,17-09-2025 00:00
+T0168,C059,Kunal Roy,Female,43,P108,Cotton T-Shirt,Fashion,4,699,2796,29-08-2025 00:00
+T0169,C003,Kabir Das,Other,66,P108,Cotton T-Shirt,Fashion,1,699,699,09-01-2025 00:00
+T0170,C020,Meera Singh,Male,34,P110,Backpack,Fashion,2,1199,2398,04-08-2025 00:00
+T0171,C003,Dev Jha,Male,31,P103,Notebook Pack,Stationery,1,149,149,23-12-2025 00:00
+T0172,C011,Vivaan Singh,Male,29,P109,Bluetooth Speaker,Electronics,1,1799,1799,19-06-2025 00:00
+T0173,C009,Aditya Patel,Female,32,P108,Cotton T-Shirt,Fashion,4,699,2796,07-02-2025 00:00
+T0174,C072,Diya Das,Other,65,P105,Water Bottle,Home & Kitchen,1,399,399,11-10-2025 00:00
+T0175,C069,Rahul Singh,Male,57,P101,Wireless Mouse,Electronics,1,799,799,20-12-2025 00:00
+T0176,C040,Kunal Mishra,Female,65,P101,Wireless Mouse,Electronics,3,799,2397,18-06-2025 00:00
+T0177,C013,Priya Patel,Male,24,P109,Bluetooth Speaker,Electronics,4,,7196,13-05-2025 00:00
+T0178,C045,Meera Roy,Male,70,P110,Backpack,Fashion,1,1199,1199,07-06-2025 00:00
+T0179,C039,Neha Sinha,Female,49,P102,USB-C Cable,Electronics,3,299,897,13-01-2025 00:00
+T0180,C046,Isha Kumar,Male,41,P101,Wireless Mouse,Electronics,2,799,1598,31-12-2025 00:00
+T0181,C035,Arjun Roy,Female,51,P106,Desk Lamp,Home & Kitchen,1,1299,1299,15-11-2025 00:00
+T0182,C028,Priya Verma,Male,67,P105,Water Bottle,Home & Kitchen,1,399,399,20-11-2025 00:00
+T0183,C064,Aman Roy,Female,39,P101,Wireless Mouse,Electronics,3,799,2397,30-04-2025 00:00
+T0184,C050,Sana Sinha,Female,28,P104,Ballpoint Pens,Stationery,2,99,198,02-02-2025 00:00
+T0185,C006,Ananya Kumar,Other,34,P103,Notebook Pack,Stationery,1,149,149,09-04-2025 00:00
+T0186,C013,Aditya Verma,Male,64,P109,Bluetooth Speaker,Electronics,1,1799,1799,25-03-2025 00:00
+T0187,C022,Kavya Mishra,Female,38,P103,Notebook Pack,Stationery,4,149,596,30-10-2025 00:00
+T0188,C059,Kabir Singh,Female,55,P104,Ballpoint Pens,Stationery,1,99,99,15-01-2025 00:00
+T0189,C034,Kavya Kumar,Male,33,P103,Notebook Pack,Stationery,1,149,149,27-01-2025 00:00
+T0190,C072,Isha Patel,Male,69,P109,Bluetooth Speaker,Electronics,3,1799,5397,18-07-2025 00:00
+T0191,,Rohan Verma,Male,42,P105,Water Bottle,Home & Kitchen,4,399,1596,10-08-2025 00:00
+T0192,C071,Sana Verma,Male,65,P101,Wireless Mouse,Electronics,2,799,1598,15-11-2025 00:00
+T0193,C002,Rahul Sharma,Female,35,P108,Cotton T-Shirt,Fashion,1,699,699,16-11-2025 00:00
+T0194,C038,Sneha Jha,Female,39,P109,Bluetooth Speaker,Electronics,3,1799,5397,28-06-2025 00:00
+T0195,C041,Neha Das,Male,37,P101,Wireless Mouse,Electronics,1,799,799,10-06-2025 00:00
+T0196,C074,Aarav Kumar,Male,,P108,Cotton T-Shirt,Fashion,1,699,699,18-03-2025 00:00
+T0197,C026,Sneha Yadav,Female,67,P106,Desk Lamp,Home & Kitchen,1,1299,1299,23-05-2025 00:00
+T0198,C044,Rohan Patel,Female,23,P101,Wireless Mouse,Electronics,4,799,3196,14-03-2025 00:00
+T0199,C032,Isha Mishra,Male,37,P109,Bluetooth Speaker,Electronics,2,1799,3598,14-11-2025 00:00
+T0200,C007,Sneha Roy,Male,20,P104,Ballpoint Pens,Stationery,2,99,198,07-05-2025 00:00
+T0201,C041,Diya Das,Male,29,P110,Backpack,Fashion,1,1199,1199,25-01-2025 00:00
+T0202,C045,Neha Verma,Male,46,P103,Notebook Pack,Stationery,1,149,149,29-04-2025 00:00
+T0203,C053,Kavya Kumar,Female,36,P107,Running Shoes,Fashion,1,2499,2499,30-05-2025 00:00
+T0204,C037,Rohan Sinha,Female,52,P108,Cotton T-Shirt,Fashion,5,699,3495,03-04-2025 00:00
+T0205,C054,Aman Gupta,Male,41,P101,Wireless Mouse,Electronics,3,799,2397,20-10-2025 00:00
+T0206,C004,Diya Sharma,Male,58,P104,Ballpoint Pens,Stationery,2,99,198,07-09-2025 00:00
+T0207,C066,Arjun Roy,Other,29,P102,USB-C Cable,Electronics,3,299,897,11-05-2025 00:00
+T0208,C018,Aarav Singh,Male,53,P108,Cotton T-Shirt,Fashion,3,699,2097,28-08-2025 00:00
+T0209,C042,Kabir Das,Male,64,P102,USB-C Cable,Electronics,1,299,299,14-01-2025 00:00
+T0210,C002,Ananya Singh,Male,18,P107,Running Shoes,Fashion,1,2499,2499,13-06-2025 00:00
+T0211,C045,Aditya Roy,Female,31,P107,Running Shoes,Fashion,1,2499,2499,21-03-2025 00:00
+T0212,C074,Vivaan Sharma,Female,25,P110,Backpack,Fashion,2,1199,2398,20-06-2025 00:00
+T0213,C001,Sana Sinha,Female,54,P109,Bluetooth Speaker,Electronics,1,1799,1799,24-06-2025 00:00
+T0214,C037,Kavya Mishra,Male,32,P101,Wireless Mouse,Electronics,3,799,2397,18-04-2025 00:00
+T0215,C061,Ananya Jha,Male,37,P104,Ballpoint Pens,Stationery,1,99,99,09-10-2025 00:00
+T0216,C029,Sneha Gupta,Male,,P101,Wireless Mouse,Electronics,1,799,799,10-06-2025 00:00
+T0217,C051,Diya Mishra,Male,51,P110,Backpack,Fashion,1,1199,1199,05-08-2025 00:00
+T0218,C050,Dev Patel,Male,61,P109,Bluetooth Speaker,Electronics,2,1799,3598,21-10-2025 00:00
+T0219,C023,Meera Sinha,Male,67,P104,Ballpoint Pens,Stationery,2,99,198,07-12-2025 00:00
+T0220,C001,Sneha Gupta,Other,64,P107,Running Shoes,Fashion,2,2499,4998,17-10-2025 00:00
+T0221,C065,Aditya Roy,Female,35,P107,Running Shoes,Fashion,5,2499,12495,25-05-2025 00:00
+T0222,C026,Aman Sinha,Female,42,P108,Cotton T-Shirt,Fashion,3,699,2097,29-10-2025 00:00
+T0223,C068,Pooja Gupta,Male,58,P101,Wireless Mouse,Electronics,2,799,1598,31-03-2025 00:00
+T0224,C062,Sneha Jha,Male,42,P102,USB-C Cable,Electronics,5,299,1495,25-06-2025 00:00
+T0225,C013,Vivaan Patel,Male,55,P109,Bluetooth Speaker,Electronics,1,1799,1799,12-05-2025 00:00
+T0226,C019,Rahul Jha,Female,62,P106,Desk Lamp,Home & Kitchen,4,1299,5196,27-11-2025 00:00
+T0227,C001,Arjun Jha,Female,18,P108,Cotton T-Shirt,Fashion,1,699,699,17-03-2025 00:00
+T0228,C071,Aarav Sharma,Male,52,P105,Water Bottle,Home & Kitchen,1,399,399,12-04-2025 00:00
+T0229,C011,Neha Roy,Male,26,P103,Notebook Pack,Stationery,1,149,149,03-01-2025 00:00
+T0230,C026,Sneha Sinha,Female,43,P108,Cotton T-Shirt,Fashion,2,699,1398,02-06-2025 00:00
+T0231,C012,Kabir Sinha,Female,60,P105,Water Bottle,Home & Kitchen,1,399,399,09-12-2025 00:00
+T0232,C070,Aditya Gupta,Female,33,P102,USB-C Cable,Electronics,2,299,598,30-10-2025 00:00
+T0233,C015,Kunal Verma,Male,39,P109,Bluetooth Speaker,Electronics,2,1799,3598,02-10-2025 00:00
+T0234,C034,Sana Patel,Male,45,P104,Ballpoint Pens,Stationery,1,99,99,18-10-2025 00:00
+T0235,C008,Diya Kumar,Female,21,P110,Backpack,Fashion,2,1199,2398,31-03-2025 00:00
+T0236,C075,Meera Yadav,Male,24,P107,Running Shoes,Fashion,2,2499,4998,08-11-2025 00:00
+T0237,C042,Sana Verma,Female,18,P110,Backpack,Fashion,4,1199,4796,21-06-2025 00:00
+T0238,C045,Rahul Yadav,Male,38,P110,Backpack,Fashion,1,1199,1199,02-08-2025 00:00
+T0239,C009,Meera Mishra,Female,59,P110,Backpack,Fashion,1,1199,1199,13-03-2025 00:00
+T0240,C024,Kabir Verma,Female,36,P101,Wireless Mouse,Electronics,1,799,799,10-04-2025 00:00
+T0241,C060,Diya Singh,Male,50,P107,Running Shoes,Fashion,2,2499,4998,30-08-2025 00:00
+T0242,C069,Ananya Sharma,Female,34,P101,Wireless Mouse,Electronics,2,799,1598,30-05-2025 00:00
+T0243,C048,Arjun Patel,Female,31,P105,Water Bottle,Home & Kitchen,2,399,798,18-03-2025 00:00
+T0244,C057,Rohan Yadav,Male,20,P109,Bluetooth Speaker,Electronics,5,1799,8995,11-02-2025 00:00
+T0245,C039,Arjun Mishra,Female,36,P109,Bluetooth Speaker,Electronics,2,1799,3598,09-03-2025 00:00
+T0246,C042,Priya Mishra,Male,53,P107,Running Shoes,Fashion,3,2499,7497,14-03-2025 00:00
+T0247,C008,Vivaan Yadav,,66,P101,Wireless Mouse,Electronics,1,799,799,12-11-2025 00:00
+T0248,C002,Isha Das,Male,20,P105,Water Bottle,Home & Kitchen,1,399,399,27-10-2025 00:00
+T0249,C058,Ananya Yadav,Female,55,P103,Notebook Pack,Stationery,,149,149,28-07-2025 00:00
+T0250,C035,Sana Mishra,Male,53,P102,USB-C Cable,Electronics,1,299,299,29-11-2025 00:00
+T0005,C021,Priya Jha,Other,67,P109,Bluetooth Speaker,Electronics,1,1799,1799,22-09-2025 00:00
+T0018,C028,Sneha Sinha,Male,61,P102,USB-C Cable,Electronics,2,299,598,06-12-2025 00:00
+T0032,C025,Diya Kumar,Male,33,P102,USB-C Cable,Electronics,1,299,299,18-06-2025 00:00

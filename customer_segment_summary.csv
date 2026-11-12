@@ -1,0 +1,4 @@
+Customer_Segment,Number_of_Customers,Average_Purchases,Average_Spending
+Frequent Buyers,31,4.129032258064516,6100.548387096775
+High Value Customers,10,5.5,14738.7
+Infrequent / Low Value Customers,34,1.8823529411764706,2584.323529411765

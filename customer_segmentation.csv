@@ -1,0 +1,76 @@
+Customer_ID,Frequency,Monetary,Cluster,Customer_Segment
+C001,8,17688.0,2,High Value Customers
+C002,5,4994.0,0,Frequent Buyers
+C003,5,5945.0,0,Frequent Buyers
+C004,5,4541.0,0,Frequent Buyers
+C005,3,6042.0,0,Frequent Buyers
+C006,4,3244.0,0,Frequent Buyers
+C007,4,8192.0,0,Frequent Buyers
+C008,6,7637.0,0,Frequent Buyers
+C009,4,5291.0,0,Frequent Buyers
+C010,1,4796.0,1,Infrequent / Low Value Customers
+C011,3,7345.0,0,Frequent Buyers
+C012,5,13591.0,2,High Value Customers
+C013,4,7792.0,0,Frequent Buyers
+C014,2,3896.0,1,Infrequent / Low Value Customers
+C015,4,4745.0,0,Frequent Buyers
+C016,1,399.0,1,Infrequent / Low Value Customers
+C017,5,4444.0,0,Frequent Buyers
+C018,3,3492.0,1,Infrequent / Low Value Customers
+C019,2,5643.0,1,Infrequent / Low Value Customers
+C020,1,2398.0,1,Infrequent / Low Value Customers
+C021,2,3397.0,1,Infrequent / Low Value Customers
+C022,1,596.0,1,Infrequent / Low Value Customers
+C023,6,10192.0,2,High Value Customers
+C024,8,21134.0,2,High Value Customers
+C025,1,299.0,1,Infrequent / Low Value Customers
+C026,6,6539.0,0,Frequent Buyers
+C027,3,6097.0,0,Frequent Buyers
+C028,2,997.0,1,Infrequent / Low Value Customers
+C029,4,4941.0,0,Frequent Buyers
+C030,2,7694.0,1,Infrequent / Low Value Customers
+C031,1,2398.0,1,Infrequent / Low Value Customers
+C032,2,3747.0,1,Infrequent / Low Value Customers
+C033,4,1344.0,0,Frequent Buyers
+C034,4,546.0,0,Frequent Buyers
+C035,3,3995.0,1,Infrequent / Low Value Customers
+C036,4,4991.0,0,Frequent Buyers
+C037,4,9787.0,0,Frequent Buyers
+C038,4,7544.0,0,Frequent Buyers
+C039,5,6939.0,0,Frequent Buyers
+C040,2,2696.0,1,Infrequent / Low Value Customers
+C041,3,2493.0,1,Infrequent / Low Value Customers
+C042,5,16339.0,2,High Value Customers
+C043,1,299.0,1,Infrequent / Low Value Customers
+C044,4,14737.0,2,High Value Customers
+C045,4,5046.0,0,Frequent Buyers
+C046,2,2297.0,1,Infrequent / Low Value Customers
+C047,4,5892.0,0,Frequent Buyers
+C048,4,7891.0,0,Frequent Buyers
+C049,5,2494.0,0,Frequent Buyers
+C050,2,3796.0,1,Infrequent / Low Value Customers
+C051,8,11733.0,2,High Value Customers
+C052,1,1398.0,1,Infrequent / Low Value Customers
+C053,2,3097.0,1,Infrequent / Low Value Customers
+C054,4,8891.0,0,Frequent Buyers
+C055,1,897.0,1,Infrequent / Low Value Customers
+C056,2,1397.0,1,Infrequent / Low Value Customers
+C057,2,9694.0,0,Frequent Buyers
+C058,2,1597.0,1,Infrequent / Low Value Customers
+C059,5,12189.0,2,High Value Customers
+C060,4,7492.0,0,Frequent Buyers
+C061,2,3295.0,1,Infrequent / Low Value Customers
+C062,3,2192.0,1,Infrequent / Low Value Customers
+C063,3,1794.0,1,Infrequent / Low Value Customers
+C064,1,2397.0,1,Infrequent / Low Value Customers
+C065,2,17691.0,2,High Value Customers
+C066,2,3396.0,1,Infrequent / Low Value Customers
+C067,3,1247.0,1,Infrequent / Low Value Customers
+C068,2,3194.0,1,Infrequent / Low Value Customers
+C069,3,2995.0,1,Infrequent / Low Value Customers
+C070,2,1045.0,1,Infrequent / Low Value Customers
+C071,3,7394.0,0,Frequent Buyers
+C072,4,12093.0,2,High Value Customers
+C073,1,2598.0,1,Infrequent / Low Value Customers
+C074,4,6294.0,0,Frequent Buyers
+C075,4,9089.0,0,Frequent Buyers
